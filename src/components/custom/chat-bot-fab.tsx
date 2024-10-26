@@ -4,7 +4,7 @@ import { ChatBotIcon } from './chat-bot-icon';
 export function ChatBotFab() {
   return (
     <Button
-      className="rounded-full bg-gray-900 text-gray-50 hover:bg-gray-900/90 dark:bg-gray-50 dark:text-gray-900 dark:hover:bg-gray-50/90"
+      className="fixed bottom-8 right-8 rounded-full bg-gray-900 text-gray-50 hover:bg-gray-900/90 dark:bg-gray-50 dark:text-gray-900 dark:hover:bg-gray-50/90"
       size="icon"
       variant="outline"
     >
